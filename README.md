@@ -6,7 +6,7 @@
 
 ## Demo
 
-![Animation Demo](./gsap-animation-demo.gif)
+![Animation Demo](./public/gsap-animation-demo.gif)
 
 ## How to Run
 
